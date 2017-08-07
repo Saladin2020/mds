@@ -10,6 +10,9 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        <form>
+            <input type="text">
+        </form>
         <?php
             echo 'Hello guy';
         ?>
